@@ -4,8 +4,7 @@
 
 The main aim of this problem is learning the purpose of the customer segmentation concepts, also known as market basket analysis, trying to understand customers and sepparate them in different groups according to their preferences, and once the division is done, this information can be given to marketing team so they can plan the strategy accordingly.
 
-**Data Set Information**
-This dataset is composed by the following five features:
+**[Data Set Information](https://www.kaggle.com/shwetabh123/mall-customers)** : This dataset is composed by the following five features:-
 
 * CustomerID: Unique ID assigned to the customer
 * Gender: Gender of the customer
