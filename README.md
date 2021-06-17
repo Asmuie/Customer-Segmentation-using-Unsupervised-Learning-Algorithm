@@ -41,10 +41,10 @@ Additionally we do not want to interfere in the process of unsupervised learning
 
 After plotting the results obtained by K-means on this 3D graphic, it's our job now to identify and describe the five clusters that have been created:
 
-Orange Cluster - The orange cluster groups young people with moderate to low annual income who actually spend a lot.
-Green Cluster - The green cluster groups reasonably young people with pretty decent salaries who spend a lot.
-Purple Cluster - The purple cluster basically groups people of all ages whose salary isn't pretty high and their spending score is moderate.
-Blue Cluster - The blue cluster groups people who actually have pretty good salaries and barely spend money, their age usually lays between thirty and sixty years.
-Red Cluster - The red cluster groups whose salary is pretty low and don't spend much money in stores, they are people of all ages.
+* Orange Cluster: The orange cluster groups young people with moderate to low annual income who actually spend a lot.
+* Green Cluster: The green cluster groups reasonably young people with pretty decent salaries who spend a lot.
+* Purple Cluster: The purple cluster basically groups people of all ages whose salary isn't pretty high and their spending score is moderate.
+* Blue Cluster: The blue cluster groups people who actually have pretty good salaries and barely spend money, their age usually lays between thirty and sixty years.
+* Red Cluster: The red cluster groups whose salary is pretty low and don't spend much money in stores, they are people of all ages.
 
 # Hirarchical Clustering
