@@ -25,7 +25,7 @@ In this project we will focus on 2 types of clustering method which is **K-Means
 
 In this project, we are only going to consider the following features: Annual_income, Spending_score and Age. Firtsly, we need to decide the amount of clusters we want to divide our data in. To do so, we are going to use the Elbow Method.
 
-![]https://github.com/Asmuie/Customer-Segmentation-using-Unsupervised-Learning-Algorithm/blob/main/images/kmeans_elbow.png
+![](https://github.com/Asmuie/Customer-Segmentation-using-Unsupervised-Learning-Algorithm/blob/main/images/kmeans_elbow.png)
 
 The elbow method is used to determine the optimal number of clusters in k-means clustering. The elbow method plots the value of the cost function produced by different values of k and one should choose a number of clusters so that adding another cluster doesn't give much better modeling of the data. In this problem, we are using the inertia as cost function in order to identify the sum of squared distances of samples to the nearest cluster centre.
 
@@ -36,7 +36,7 @@ In the process of clustering we will not be considering the gender factor anymor
 
 Additionally we do not want to interfere in the process of unsupervised learning, we will leave the algorithm do its job and once it's finished we will analyze the results and extract conclusions and knowledge.
 
-![]https://github.com/Asmuie/Customer-Segmentation-using-Unsupervised-Learning-Algorithm/blob/main/images/kmeans_result3d.png
+![](https://github.com/Asmuie/Customer-Segmentation-using-Unsupervised-Learning-Algorithm/blob/main/images/kmeans_result3d.png)
 
 
 After plotting the results obtained by K-means on this 3D graphic, it's our job now to identify and describe the five clusters that have been created:
