@@ -48,3 +48,5 @@ After plotting the results obtained by K-means on this 3D graphic, it's our job 
 * Red Cluster: The red cluster groups whose salary is pretty low and don't spend much money in stores, they are people of all ages.
 
 # Hirarchical Clustering
+
+*incoming..
