@@ -6,7 +6,7 @@ The main aim of this problem is learning the purpose of the customer segmentatio
 
 **Data Set Information**  
 
-This dataset is composed by the following five features:-
+This dataset is composed by the following five features:
 
 * CustomerID: Unique ID assigned to the customer
 * Gender: Gender of the customer
