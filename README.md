@@ -17,5 +17,8 @@ This dataset is composed by the following five features:
 
 In this particular dataset we have 200 samples to study.
 
+To visualize our data and plot important information so we can see the different values our data has and its behaviour. To do so, we are only going to consider the following features: Annual_income and Spending_score. 
+
+In this project we will focus on 2 types of clustering method which is K-Means Clustering and Hierarchical Clustering method. Both will be using the same data set an we will compare the result.
 
 
