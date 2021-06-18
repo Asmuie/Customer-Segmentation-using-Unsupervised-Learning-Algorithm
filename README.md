@@ -23,7 +23,7 @@ In this project we will focus on 2 types of clustering method which is **K-Means
 
 # K-Means Clustering
 
-In this project, we are only going to consider the following features: Annual_income, Spending_score and Age. Firtsly, we need to decide the amount of clusters we want to divide our data in. To do so, we are going to use the Elbow Method.
+In this project, we are only going to consider the following features: Age, Annual_income and Spending_score. Firtsly, we need to decide the amount of clusters we want to divide our data in. To do so, we are going to use the Elbow Method.
 
 ![](https://github.com/Asmuie/Customer-Segmentation-using-Unsupervised-Learning-Algorithm/blob/main/images/kmeans_elbow.png)
 
@@ -48,5 +48,27 @@ After plotting the results obtained by K-means on this 3D graphic, it's our job 
 * Red Cluster: The red cluster groups whose salary is pretty low and don't spend much money in stores, they are people of all ages.
 
 # Hirarchical Clustering
+
+In this project, we are only going to consider the following features: Annual_income and Spending_score only because we want to compare our interpretation with and actual plot of the data.Firtsly, we need to decide the amount of clusters we want to divide our data in. Unfortunately, this usually will
+not be possible because our data will consist of more than two variables. To do so, we are going to use the Dendrogram Method.
+
+![]
+
+A dendrogram is a diagram that shows the hierarchical relationship between objects. It is most commonly created as an output from hierarchical clustering. The main use of a dendrogram is to work out the best way to allocate objects to clusters.
+
+The vertical axis of the dendrogram represents the distance or dissimilarity between clusters. The horizontal axis
+represents the objects and clusters. The dendrogram is fairly simple to interpret. Remember that our main interest
+is in similarity and clustering. Each joining (fusion) of two clusters is represented on the graph by the splitting of
+a vertical line into two vertical lines. The vertical position of the split, shown by the short horizontal bar,
+gives the distance (dissimilarity) between the two clusters.
+
+Looking at this dendrogram, you can see the five clusters as five branches that occur at about the same
+horizontal distance. From this information we start train our Hirarchical Clustering model analysis.
+
+![]
+
+
+
+
 
 *incoming..
