@@ -71,4 +71,3 @@ From above plot now we can identify our cluster based on Annual Income and Spend
 
 
 
-*incoming..
