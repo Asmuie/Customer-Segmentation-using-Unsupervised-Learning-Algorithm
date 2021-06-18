@@ -52,7 +52,7 @@ After plotting the results obtained by K-means on this 3D graphic, it's our job 
 In this project, we are only going to consider the following features: Annual_income and Spending_score only because we want to compare our interpretation with and actual plot of the data.Firtsly, we need to decide the amount of clusters we want to divide our data in. Unfortunately, this usually will
 not be possible because our data will consist of more than two variables. To do so, we are going to use the Dendrogram Method.
 
-![]
+![](https://github.com/Asmuie/Customer-Segmentation-using-Unsupervised-Learning-Algorithm/blob/main/images/dendogram.png)
 
 A dendrogram is a diagram that shows the hierarchical relationship between objects. It is most commonly created as an output from hierarchical clustering. The main use of a dendrogram is to work out the best way to allocate objects to clusters.
 
