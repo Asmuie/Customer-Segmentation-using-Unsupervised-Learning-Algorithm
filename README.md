@@ -67,7 +67,7 @@ horizontal distance. From this information we start train our Hirarchical Cluste
 
 ![](https://github.com/Asmuie/Customer-Segmentation-using-Unsupervised-Learning-Algorithm/blob/main/images/hirarchical_clustering_result.png)
 
-
+From above plot now we can identify our cluster based on Annual Income and Spending Score. 
 
 
 
