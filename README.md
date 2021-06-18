@@ -65,7 +65,7 @@ gives the distance (dissimilarity) between the two clusters.
 Looking at this dendrogram, you can see the five clusters as five branches that occur at about the same
 horizontal distance. From this information we start train our Hirarchical Clustering model analysis.
 
-![]
+![](https://github.com/Asmuie/Customer-Segmentation-using-Unsupervised-Learning-Algorithm/blob/main/images/hirarchical_clustering_result.png)
 
 
 
